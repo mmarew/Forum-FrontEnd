@@ -1,0 +1,20 @@
+.signupDiv {
+  max-width: 300px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 20px;
+  margin: 10px auto;
+}
+.signupDiv form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+.signupAll {
+  background-color: rgb(248, 248, 248);
+  padding: 50px 10px;
+}

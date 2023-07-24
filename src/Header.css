@@ -1,0 +1,19 @@
+.HeaderNav {
+  display: flex;
+  justify-content: center;
+}
+.links {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+  padding: 10px 15px;
+}
+.links:hover {
+  background-color: yellow;
+  border-radius: 10px;
+}
+.activeNav {
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+}
